@@ -1,0 +1,12 @@
+.section {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feedbackTitle {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #212121;
+}

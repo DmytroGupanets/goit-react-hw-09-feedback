@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(216, 241, 236, 0.473);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
